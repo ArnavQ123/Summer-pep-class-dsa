@@ -23,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
