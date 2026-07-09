@@ -33,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
