@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0704-binary-search) |
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
