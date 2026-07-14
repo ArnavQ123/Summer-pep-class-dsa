@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1901-find-a-peak-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
