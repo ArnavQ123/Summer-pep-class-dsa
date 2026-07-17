@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0035-search-insert-position) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
