@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
 ## Tree
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,8 +124,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
