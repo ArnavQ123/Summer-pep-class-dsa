@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
