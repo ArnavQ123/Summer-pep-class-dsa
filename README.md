@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
+| [0090-subsets-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0198-house-robber) |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
