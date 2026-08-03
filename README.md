@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0704-binary-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
 ## Tree
@@ -148,8 +150,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0090-subsets-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
