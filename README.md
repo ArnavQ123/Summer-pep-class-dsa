@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0198-house-robber) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
