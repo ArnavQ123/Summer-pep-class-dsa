@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0876-middle-of-the-linked-list](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
