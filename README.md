@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
+| [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
+| [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0930-binary-subarrays-with-sum) |
+## Sorting
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
