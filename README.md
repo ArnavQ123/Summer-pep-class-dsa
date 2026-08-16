@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0043-multiply-strings) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
