@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0724-find-pivot-index) |
 | [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 ## Backtracking
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 ## Simulation
 |  |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
