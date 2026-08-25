@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -217,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
