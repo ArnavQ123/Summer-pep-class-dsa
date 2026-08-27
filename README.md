@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0045-jump-game-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0016-3sum-closest) |
 | [0561-array-partition](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 ## Simulation
