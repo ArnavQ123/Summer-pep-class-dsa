@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0043-multiply-strings) |
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
