@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int countPrimes(int n) {
+        if (n <= 2) return 0;
+        vector<bool> isPrime(n, true);
+        isPrime[0] = isPrime[1] = false;
+        int ans = 1;
+        for (int i = 3; 1LL * i * i < n; i += 2) {
+            if (isPrime[i]) {
+                for (int j = i * i; j < n; j += 2 * i)
+                    isPrime[j] = false;
+            }
+        }
+        for (int i = 3; i < n; i += 2)
+            ans += isPrime[i];
+
+        return ans;
+    }
+};
