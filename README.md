@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0204-count-primes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
+| [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
+| [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
+| [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Tree
 |  |
 | ------- |
