@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
 | [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
