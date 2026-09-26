@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1539-kth-missing-positive-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
