@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0204-count-primes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0503-next-greater-element-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0047-permutations-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/0846-hand-of-straights) |
 ## Simulation
