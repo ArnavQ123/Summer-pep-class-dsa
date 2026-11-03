@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/2364-count-number-of-bad-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-count-the-number-of-inversions](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3193-count-the-number-of-inversions) |
 | [3524-find-x-value-of-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArnavQ123/Summer-pep-class-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
